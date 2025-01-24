@@ -258,3 +258,15 @@
 2024-10-25: Replaced: 14, skipped: 0, added new: 35, added affiliation: 58, new unknown: 0
 2024-11-04: Replaced: 139, skipped: 0, added new: 231, added affiliation: 595, new unknown: 0
 2024-11-06: Replaced: 15, skipped: 0, added new: 34, added affiliation: 45, new unknown: 0
+2024-11-22: Replaced: 77, skipped: 2, added new: 134, added affiliation: 369, new unknown: 0
+2024-11-25: Replaced: 10, skipped: 0, added new: 16, added affiliation: 39, new unknown: 0
+2024-11-28: Replaced: 35, skipped: 0, added new: 72, added affiliation: 154, new unknown: 0
+2024-12-09: Replaced: 99, skipped: 0, added new: 173, added affiliation: 472, new unknown: 0
+2024-12-13: Replaced: 54, skipped: 1, added new: 101, added affiliation: 233, new unknown: 0
+2024-12-16: Replaced: 9, skipped: 0, added new: 23, added affiliation: 33, new unknown: 0
+2024-12-20: Replaced: 72, skipped: 0, added new: 133, added affiliation: 324, new unknown: 0
+2025-01-07: Replaced: 121, skipped: 0, added new: 281, added affiliation: 535, new unknown: 0
+2025-01-10: Replaced: 56, skipped: 0, added new: 109, added affiliation: 262, new unknown: 0
+2025-01-17: Replaced: 70, skipped: 0, added new: 150, added affiliation: 296, new unknown: 0
+2025-01-20: Replaced: 7, skipped: 0, added new: 14, added affiliation: 34, new unknown: 0
+2025-01-24: Replaced: 54, skipped: 0, added new: 113, added affiliation: 205, new unknown: 0
